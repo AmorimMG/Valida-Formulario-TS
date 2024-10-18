@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AmorimMG/package.git"
+        "url": "git+https://github.com/AmorimMG/Valida-Formulario-TS.git"
     },
     "devDependencies": {
         "@changesets/cli": "^2.27.9",
